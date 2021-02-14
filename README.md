@@ -1,1 +1,1 @@
-# French-Fries
+Recipe of French Fries.
